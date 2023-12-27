@@ -1,7 +1,7 @@
 # ADCS2012Addendum
 Microsoft.Windows.Active.Directory.Certificate.Services.2012.Monitoring.Addendum v1.0.0.8
 
-Download here
+Download [here](https://github.com/theKevinJustin/ADCS2012Addendum/blob/main/Microsoft.Windows.Active.Directory.Certificate.Services.2012.Monitoring.Addendum.xml)
 
 ### Microsoft Windows Active Directory Certificate Services 2012 Monitoring Addendum
 Management pack configures rules/monitors, disables noisy rules, adds OCSP seed, OCSP responder and OCSP group (classes), relevant service monitors, service recovery automation
